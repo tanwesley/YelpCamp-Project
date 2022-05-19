@@ -1,4 +1,12 @@
 {
+  "name": "YelpCamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.13.3",
     "bootstrap": "^5.1.3",
